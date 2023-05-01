@@ -1,6 +1,6 @@
 ## votezapp
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
+Generated with ❤️ from Prathik
 
 ## Description
 
