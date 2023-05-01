@@ -1,0 +1,11 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/DMSerifDisplayRegular.ttf"); font-family : "DM Serif Display"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PadaukRegular.ttf"); font-family : "Padauk"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PadaukBold.ttf"); font-family : "Padauk"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/TienneBold.ttf"); font-family : "Tienne"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/TienneRegular.ttf"); font-family : "Tienne"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/InterSemiBold.ttf"); font-family : "Inter"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : italic; src: url("assets/fonts/DMSerifDisplayItalic.ttf"); font-family : "DM Serif Display"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OswaldRegular.ttf"); font-family : "Oswald"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PacificoRegular.ttf"); font-family : "Pacifico"; font-weight : 400;  }
